@@ -1,0 +1,15 @@
+Linear Regressor:-
+        Score 0.8081332010693768
+        MAError 0.21461354303777566
+
+DecisionTree:-
+        Score 0.8336046721659388
+        MAError 0.19404129604704373
+
+RandomForest:-
+        Score 0.8612552202433235
+        MAError 0.176266780841514
+
+XGBoost:-
+        Score 0.8830086152110876
+        MAError 0.16247768008722832
