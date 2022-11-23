@@ -1,10 +1,10 @@
 Linear Regressor:-
-        Score 0.8081332010693768
-        MAError 0.21461354303777566
+        R2 score 0.8081332010693768
+        MAE 0.21461354303777566
 
 DecisionTree:-
-        Score 0.8336046721659388
-        MAError 0.19404129604704373
+        R2 score 0.8367715183913553
+        MAE 0.1927894486086451
 
 RandomForest:-
         Score 0.8612552202433235
